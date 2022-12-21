@@ -10,6 +10,9 @@ I will display them here.
   * Tested which of the two ads performs better and the performance of the ad on different platforms.
 * [Farmburg's A/B test](https://github.com/rcintrovert/Guided-Practice-Projects/blob/0e00850243459831b5dd7a6c63adc4ba814446a4/shoefly-com-a-b-testing.ipynb)
   * Perfomed a Chi-Square test to determine if the categorical data for two independent variables have a relationship. 
+### Page Funnel Analysis
+This project had us analyzing the data from a fictional t-shirt e-commerce website. The data was provided in four separate csv files. Calculated the amount of visitors who did not make it to the cart, amount of visitors who placed an item in the cart, and amount of visitors who made it to checkout but did not purchase. Analyzing this data is important to determine what ways the company can improve the traffic to the site and ultimately gain more purchases. 
+* [Page Visits Funnel Project](https://github.com/rcintrovert/Guided-Practice-Projects/blob/886ef11612e80c28aa327bac22e9d6ebf200be35/page_visits_funnel.ipynb)
 
 ## Guided Project Completed from Udemy's The Ultimate MySQL Bootcamp
 Final project from this course was creating a clone of the database structure of a photo sharing social network like Instagram.
