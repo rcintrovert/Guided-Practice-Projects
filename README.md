@@ -13,6 +13,19 @@ I will display them here.
 ### Page Funnel Analysis
 This project had us analyzing the data from a fictional t-shirt e-commerce website. The data was provided in four separate csv files. Calculated the amount of visitors who did not make it to the cart, amount of visitors who placed an item in the cart, and amount of visitors who made it to checkout but did not purchase. Analyzing this data is important to determine what ways the company can improve the traffic to the site and ultimately gain more purchases. 
 * [Page Visits Funnel Project](https://github.com/rcintrovert/Guided-Practice-Projects/blob/886ef11612e80c28aa327bac22e9d6ebf200be35/page_visits_funnel.ipynb)
+### Learning Python with U.S. Medical Insurance Cost
+[Python with Medical Insurance Data](https://github.com/rcintrovert/Guided-Practice-Projects/blob/25b41bebf4d5f211bff2dc671304bbd5e0aba60e/python_medical_insurance.ipynb)
+* Python Syntax: Suppose you are a medical professional curious about how certain factors contribute to medical insurance costs. Using a formula that estimates a person's yearly insurance costs, you will investigate how different factors such as age, sex, BMI, etc. affect the prediction.
+* Python Strings: You are a doctor who needs to clean up medical patient records, which are currently stored in one large string. In this project, you will use your new knowledge of Python strings to obtain and clean up medical data so that it is easier to read and analyze.
+* Python Lists: In this project, you will examine how factors such as age, sex, BMI, number of children, and smoking status contribute to medical insurance costs. You will apply your new knowledge of Python Lists to store insurance cost data in a list as well as compare estimated insurance costs to actual insurance costs.
+* Working with Python Lists: You are a doctor sorting through medical insurance cost data for some patients. Using your knowledge of Python lists, you will store medical data and see what valuable insights you can gain from that data.
+* Python Dictionaries: You have been asked to create a program that organizes and updates medical records efficiently. In this project, you will use your new knowledge of Python dictionaries to create a database of medical records for patients.
+* Python Loops: You are interested in analyzing medical insurance cost data efficiently without writing repetitive code. In this project, you will use your new knowledge of Python loops to iterate through and analyze medical insurance cost data.
+* Python Classes: You have been asked to develop a system that makes it easier to organize patient data. You will create a class that does the following:
+  * Takes in patient parameters regarding their personal information
+  * Contains methods that allow users to update their information
+  * Gives patients insight into their potential medical fees.
+* Python Control Flow: In this project, you will examine how factors such as age, sex, BMI, number of children, and smoking status contribute to medical insurance costs. You will apply your knowledge of Python control flow to write code that gives people advice on how to lower their medical insurance costs. In general, insurance costs are higher for smokers as well as people with a higher BMI. We can use the data from the variables smoker and bmi to provide advice on how to lower insurance costs.
 
 ## Guided Project Completed from Udemy's The Ultimate MySQL Bootcamp
 Final project from this course was creating a clone of the database structure of a photo sharing social network like Instagram.
