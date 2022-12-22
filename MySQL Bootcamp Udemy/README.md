@@ -1,6 +1,6 @@
 # Guided Project Completed from Udemy's The Ultimate MySQL Bootcamp
 Final project from this course was creating a clone of the database structure of a photo sharing social network like Instagram.
-Note that some simplifications were made and the schema for the project is as followed.
+Note that some simplifications were made so it would be easier to follow along and the schema for the project is as followed.
 
 ![This is an image](https://github.com/rcintrovert/Guided-Practice-Projects/blob/d168b9da619b065fcf02bb0ae0246df30563d000/MySQL%20Bootcamp%20Udemy/ig_clone_schema.png)
 
