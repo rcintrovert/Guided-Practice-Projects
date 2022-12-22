@@ -45,6 +45,10 @@ FoodWheel is a startup delivery service that takes away the struggle of deciding
 * How much has each customer on FoodWheel spent over the past six months? 
 * What can this tell us about the average FoodWheel customer?
 
+### [Summarizing Automobile Evaluation Data](https://github.com/rcintrovert/Guided-Practice-Projects/blob/af402b7a0079c82cf14fa43c213fbf5551dddd57/eda_automobile_data.ipynb)
+
+In the following project you'll use what you've learned about summarizing categorical data to analyze a sample from a popular open source dataset. This dataset contains information on the cost and physical attributes of several thousand cars. In this exercise made frequency and proportion tables.
+
 ## Guided Project Completed from Udemy's The Ultimate MySQL Bootcamp
 Final project from this course was creating a clone of the database structure of a photo sharing social network like Instagram.
 * [Creating the database](https://github.com/rcintrovert/Guided-Practice-Projects/blob/13c3b01b16d6c25cecd918cd75e9962734c9aa10/MySQL%20Bootcamp%20Udemy/ig_clone_data.sql)
