@@ -49,6 +49,10 @@ FoodWheel is a startup delivery service that takes away the struggle of deciding
 
 In the following project you'll use what you've learned about summarizing categorical data to analyze a sample from a popular open source dataset. This dataset contains information on the cost and physical attributes of several thousand cars. In this exercise made frequency and proportion tables.
 
+### [Chocolate Scraping with Beautiful Soup](https://github.com/rcintrovert/Guided-Practice-Projects/blob/68c760f1678d112787539e2d23cbe4529743f691/chocolate_scraping.ipynb)
+
+After eating chocolate bars your whole life, you've decided to go on a quest to find the greatest chocolate bar in the world. You've found a website that has over 1700 reviews of chocolate bars from all around the world. It's linked below the text for the first task. The data is displayed in a table, instead of in a csv or json. Thankfully, we have the power of BeautifulSoup that will help us transform this webpage into a DataFrame that we can manipulate and analyze.
+
 ## Guided Project Completed from Udemy's The Ultimate MySQL Bootcamp
 Final project from this course was creating a clone of the database structure of a photo sharing social network like Instagram.
 * [Creating the database](https://github.com/rcintrovert/Guided-Practice-Projects/blob/13c3b01b16d6c25cecd918cd75e9962734c9aa10/MySQL%20Bootcamp%20Udemy/ig_clone_data.sql)
