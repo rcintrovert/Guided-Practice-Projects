@@ -35,6 +35,16 @@ The dataset contains information about loans awarded by the non-profit Kiva and 
 
 In this project, you'll imagine you are a data scientist interested in exploring data that looks at how certain diagnostic factors affect the diabetes outcome of women patients. You will use your EDA skills to help inspect, clean, and validate the data.
 
+### [EDA FoodWheel](https://github.com/rcintrovert/Guided-Practice-Projects/blob/03ea876b931b1f586d78c7ccee44336c14f773e0/foodwheel_project.ipynb)
+
+FoodWheel is a startup delivery service that takes away the struggle of deciding where to eat! FoodWheel picks you an amazing local restaurant and lets you order through the app. Senior leadership is getting ready for a big board meeting, and as the resident Data Analyst, you have been enlisted to help decipher data and answer some key questions:
+* What cuisines does FoodWheel offer? 
+* Which areas should the company search for more restaurants to partner with?
+* How has the average order amount changed over time?
+* What does this say about the trajectory of the company?
+* How much has each customer on FoodWheel spent over the past six months? 
+* What can this tell us about the average FoodWheel customer?
+
 ## Guided Project Completed from Udemy's The Ultimate MySQL Bootcamp
 Final project from this course was creating a clone of the database structure of a photo sharing social network like Instagram.
 * [Creating the database](https://github.com/rcintrovert/Guided-Practice-Projects/blob/13c3b01b16d6c25cecd918cd75e9962734c9aa10/MySQL%20Bootcamp%20Udemy/ig_clone_data.sql)
