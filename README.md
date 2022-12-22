@@ -26,6 +26,9 @@ This project had us analyzing the data from a fictional t-shirt e-commerce websi
   * Contains methods that allow users to update their information
   * Gives patients insight into their potential medical fees.
 * Python Control Flow: In this project, you will examine how factors such as age, sex, BMI, number of children, and smoking status contribute to medical insurance costs. You will apply your knowledge of Python control flow to write code that gives people advice on how to lower their medical insurance costs. In general, insurance costs are higher for smokers as well as people with a higher BMI. We can use the data from the variables smoker and bmi to provide advice on how to lower insurance costs.
+### Kiva Visualization
+[Kiva Data Visualization with Python](https://github.com/rcintrovert/Guided-Practice-Projects/blob/5d0eb07eff662177f795ab193789aa1a49b5952b/kiva_project.ipynb)
+The dataset contains information about loans awarded by the non-profit Kiva and the dataset is found on Kaggle. Using Seaborn, you'll explore the average loan amount by country using aggregated bar charts. You'll also visualize the distribution of loan amounts by project type and gender using box plots and violin plots.
 
 ## Guided Project Completed from Udemy's The Ultimate MySQL Bootcamp
 Final project from this course was creating a clone of the database structure of a photo sharing social network like Instagram.
