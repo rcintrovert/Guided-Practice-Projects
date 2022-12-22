@@ -11,9 +11,11 @@ I will display them here.
 * [Farmburg's A/B test](https://github.com/rcintrovert/Guided-Practice-Projects/blob/0e00850243459831b5dd7a6c63adc4ba814446a4/shoefly-com-a-b-testing.ipynb)
   * Perfomed a Chi-Square test to determine if the categorical data for two independent variables have a relationship. 
 ### [Page Funnel Analysis](https://github.com/rcintrovert/Guided-Practice-Projects/blob/886ef11612e80c28aa327bac22e9d6ebf200be35/page_visits_funnel.ipynb)
+
 This project had us analyzing the data from a fictional t-shirt e-commerce website. The data was provided in four separate csv files. Calculated the amount of visitors who did not make it to the cart, amount of visitors who placed an item in the cart, and amount of visitors who made it to checkout but did not purchase. Analyzing this data is important to determine what ways the company can improve the traffic to the site and ultimately gain more purchases. 
 
 ### [Learning Python with U.S. Medical Insurance Cost](https://github.com/rcintrovert/Guided-Practice-Projects/blob/25b41bebf4d5f211bff2dc671304bbd5e0aba60e/python_medical_insurance.ipynb)
+
 * Python Syntax: Suppose you are a medical professional curious about how certain factors contribute to medical insurance costs. Using a formula that estimates a person's yearly insurance costs, you will investigate how different factors such as age, sex, BMI, etc. affect the prediction.
 * Python Strings: You are a doctor who needs to clean up medical patient records, which are currently stored in one large string. In this project, you will use your new knowledge of Python strings to obtain and clean up medical data so that it is easier to read and analyze.
 * Python Lists: In this project, you will examine how factors such as age, sex, BMI, number of children, and smoking status contribute to medical insurance costs. You will apply your new knowledge of Python Lists to store insurance cost data in a list as well as compare estimated insurance costs to actual insurance costs.
@@ -28,6 +30,10 @@ This project had us analyzing the data from a fictional t-shirt e-commerce websi
 ### [Kiva Data Visualization with Python](https://github.com/rcintrovert/Guided-Practice-Projects/blob/5d0eb07eff662177f795ab193789aa1a49b5952b/kiva_project.ipynb)
 
 The dataset contains information about loans awarded by the non-profit Kiva and the dataset is found on Kaggle. Using Seaborn, you'll explore the average loan amount by country using aggregated bar charts. You'll also visualize the distribution of loan amounts by project type and gender using box plots and violin plots.
+
+### [EDA Diagnosing Diabetes](https://github.com/rcintrovert/Guided-Practice-Projects/blob/ce583be2cf8acfad38a410188fa2fbe231accb23/EDA%20Diagnosing%20Diabetes.ipynb)
+
+In this project, you'll imagine you are a data scientist interested in exploring data that looks at how certain diagnostic factors affect the diabetes outcome of women patients. You will use your EDA skills to help inspect, clean, and validate the data.
 
 ## Guided Project Completed from Udemy's The Ultimate MySQL Bootcamp
 Final project from this course was creating a clone of the database structure of a photo sharing social network like Instagram.
